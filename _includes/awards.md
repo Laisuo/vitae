@@ -9,7 +9,5 @@
 * 2012 National inspirational scholarship, Chinese Ministry of Education
 * 2011 National Scholarship (Highest leverl scholarship), Chinese Ministry of Education
 * 2010 National Scholarship (Highest leverl scholarship), Chinese Ministry of Education
-
-
-
+*
 </section>
