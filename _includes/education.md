@@ -2,15 +2,13 @@
 
 # Education
 
-<article markdown="1">
-<header>
-<h1> Ph.D. in Mechanical Engineering </h1>
+## Ph.D. in Mechanical Engineering
 
 Carnegie Mellon University
 Pittsburgh, Pennsylvania. 2016 to present  
 Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
 
-</article>
+
 
 <article markdown="1">
 <header>
