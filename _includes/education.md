@@ -3,15 +3,13 @@
 # Education
 
 ## Ph.D. in Mechanical Engineering
-
-### Carnegie Mellon University
+Carnegie Mellon University
 Pittsburgh, Pennsylvania. 2016 to present  
 Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
 
 
 
 ## Master in Automotive Engineering
-
 Tsinghua University
 Beijing, China. 2013 to 2016  
 Advisor: [Professor Jianbo Zhang](http://thueps.org/html/en/)
