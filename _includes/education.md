@@ -2,7 +2,7 @@
 
 # Education
 
-## Ph.D. in Mechanical Engineering
+<h1> Ph.D. in Mechanical Engineering </h1>
 
 Carnegie Mellon University
 Pittsburgh, Pennsylvania. 2016 to present  
