@@ -16,14 +16,14 @@ Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
 <article markdown="1">
 <header>
 <h1>Master in Automotive Engineering</h1>
-<pre>
+
 <span>Tsinghua University </span>
 <span><address>Beijing, China</address><time>2013 to 2016</time></span>  
-<span>Advisor: [Professor Jianbo Zhang](http://thueps.org/html/en/)</span>
+Advisor: [Professor Jianbo Zhang](http://thueps.org/html/en/)
 </header>
 * Dissertation: Study of Energy Type Lithium-Ion Cell Degradation Behavior under Multiple Stresses (Outstanding Thesis in Tsinghua University in 2016)
 * Graduated with the Outstanding Dissertation Award
-</pre>
+
 </article>
 <article markdown="1">
 <header>
