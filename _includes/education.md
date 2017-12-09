@@ -11,7 +11,7 @@
 <span>Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)</span>
 </header>
 </article>
-</pre>
+
 <article markdown="1">
 <header>
 <h1>Master in Automotive Engineering</h1>
@@ -33,6 +33,6 @@
 
 * Dissertation: The Effect of Degradation on the Thermal Safety Issues in Lithium-Ion Battery (Outstanding Thesis in Hefei University of Technology)
 * Graduated with the Highest Distinction
-
+</pre>
 </article>
 </section>
