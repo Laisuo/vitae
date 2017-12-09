@@ -7,7 +7,7 @@
 <h1>Ph.D. in Mechanical Engineering</h1>
 <span>Carnegie Mellon University</span>
 <span><address>Pittsburgh, Pennsylvania</address><time>2016 to present</time></span>  
-<span>Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)</span>
+<span>Advisor:[Professor B. Reeja Jayan](http://jayanlab.com/)</span>
 </header>
 </article>
 <article markdown="1">
