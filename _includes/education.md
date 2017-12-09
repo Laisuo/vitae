@@ -2,9 +2,7 @@
 
 # Education
 
-<article>
-<header>
-<h1>Ph.D. in Mechanical Engineering</h1>
+## Ph.D. in Mechanical Engineering
 
 <span>Carnegie Mellon University</span>
 <span><address>Pittsburgh, Pennsylvania</address><time>2016 to present</time></span>  
