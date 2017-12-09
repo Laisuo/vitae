@@ -5,13 +5,13 @@
 <article>
 <header>
 <h1>Ph.D. in Mechanical Engineering</h1>
-<pre>
+
 <span>Carnegie Mellon University</span>
 <span><address>Pittsburgh, Pennsylvania</address><time>2016 to present</time></span>  
 Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
 </header>
 </article>
-</pre>
+
 
 <article markdown="1">
 <header>
