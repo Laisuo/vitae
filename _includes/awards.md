@@ -2,12 +2,12 @@
 
 # Honors & Awards
 
-* 2017 Milton Shaw PhD Student Travel Award, Carnegie Mellon University, USA 
-* 2016 Outstanding Thesis Award, Tsinghua University, China
-* 2015 Weichai Power Scholarship, Tsinghua University, China
-* 2013 Outstanding Graduate Award, Hefei University of Technology, China
-* 2012 National inspirational scholarship, Chinese Ministry of Education
-* 2011 National Scholarship (Highest leverl scholarship), Chinese Ministry of Education
-* 2010 National Scholarship (Highest leverl scholarship), Chinese Ministry of Education
-*
+* MMSys'17 Student Travel Grant
+* APSys'16 Student Travel Grant
+* UW-Madison Qualcomm Innovation Competition Best Prototype Award
+* UW-Madison Hilldale Research Fellowship
+* UW-Madison W.G. Kirchoffer Memorial Scholarship Award
+* Rockwell Collins Scholarship
+* UW-Madison Sophomore/Freshman Engineering Award
+* 
 </section>
