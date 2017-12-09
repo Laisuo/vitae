@@ -3,9 +3,9 @@
 # Education
 
 ## Ph.D. in Mechanical Engineering
-Carnegie Mellon University
-Pittsburgh, Pennsylvania. 2016 to present  
-Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
+> Carnegie Mellon University
+> Pittsburgh, Pennsylvania. 2016 to present  
+> Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/)
 
 
 
