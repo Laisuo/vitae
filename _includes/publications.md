@@ -1,6 +1,8 @@
 <section class="thirteen columns" markdown="1">
 # Publications  
+<article markdown="1">
 [Google Scholar](https://scholar.google.com/citations?user=Z1F4AIcAAAAJ&hl=en&oi=ao)
+</article>
 
 <article markdown="1">
 <header>
