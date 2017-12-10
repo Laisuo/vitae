@@ -12,7 +12,7 @@
 <article markdown="1">
 <header>
 <h1>Master in Automotive Engineering</h1>
-<span><address>Tsinghua University,Beijing, China</address><time>2013 - 2016 </time></span>
+<span><address>Tsinghua University, Beijing, China</address><time>2013 - 2016 </time></span>
 </header>
 Advisor: [Professor Jianbo Zhang](http://thueps.org/html/en/)  
 Dissertation: Study of Energy Type Lithium-Ion Cell Degradation Behavior under Multiple Stresses (Outstanding Thesis in Tsinghua University in 2016)  
