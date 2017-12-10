@@ -26,5 +26,3 @@
 * Main aging factors identification and life prediction for lithium ion batteries
 </article>
 
-
-</section>
