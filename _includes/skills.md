@@ -5,7 +5,6 @@
 <article markdown="1">
 <header>
 <h1>Experimental Expertise</h1>
-
 </header>
 
 * Extensive experience working with chemical vapor deposition (CVD) synthesis, glovebox usage, and battery testing. Specific experimental characterization techniques include X-ray diffraction (XRD) (powder), microscopy (SEM) and spectroscopy (EIS, FTIR, interferometer, ellipsometry). Working experience with various electrochemical test systems.
@@ -19,6 +18,8 @@
 
 * MATLAB  
 * C++  
+
+</article>
 
 <article markdown="1">
 <header>
