@@ -1,6 +1,6 @@
 <section class="thirteen columns" markdown="1">
 
-# Community Service and Outreach
+# Other Experiences
 
 <article markdown="1">
 <header>
@@ -25,5 +25,3 @@
 
 * Lab equipment set-up, electrical and mechanical troubleshooting, management of lab personnel and equipment
 
-
-</section>
