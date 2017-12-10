@@ -10,6 +10,8 @@
 
 * Lecture and activities on using everyday objects (water, fruit juice) to generate energy offered as part of Gelfand Center’s saturday series classes for K-9 students from local schools.
 
+</article>
+
 <article markdown="1">
 <header>
 <h1>Summer Camp (Tsinghua University, twice)</h1>
@@ -21,6 +23,6 @@
 
 
 
-
+</article>
 
 </section>
