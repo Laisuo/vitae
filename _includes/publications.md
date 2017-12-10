@@ -1,8 +1,6 @@
 <section class="thirteen columns" markdown="1">
 # Publications
-<a href="https://scholar.google.com/citations?user=Z1F4AIcAAAAJ&hl=en&oi=ao" class="btn btn-primary">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
+[Google Scholar](https://scholar.google.com/citations?user=Z1F4AIcAAAAJ&hl=en&oi=ao)
 
 
 #### Journal Articles
