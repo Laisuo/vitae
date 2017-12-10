@@ -16,7 +16,7 @@
 </header>
 
 * Degradation of two types of commercial lithium ion cells with LTO anode in high rate cycling test.
-</article>
+
 
 <article markdown="1">
 <header>
@@ -24,5 +24,6 @@
 <span><address>Automotive Enginnering, Tsinghua University, China, Advisor: Prof. Jianbo Zhang</address><time>Sept. 2013 - Jun. 2016</time></span>
 </header>
 * Main aging factors identification and life prediction for lithium ion batteries
-</article>
+
+</section>
 
