@@ -4,10 +4,8 @@
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
-<header>
-<h1>Journal Articles</h1>
-</header>
 
+#### Journal Articles
 1.	Zhang, Y., Li, X., **Su, Laisuo**, Li, Z., Liaw, B.Y. and Zhang, J., 2017. Lithium Plating Detection and Quantification in Li-Ion Cells from Degradation Behaviors. ECS Transactions, 75(23), pp.37-50.
 2.	**Su, Laisuo**, Zhang, J., Wang, C., Zhang, Y., Li, Z., Song, Y., Jin, T. and Ma, Z., 2016. Identifying main factors of capacity fading in lithium ion cells using orthogonal design of experiments. Applied Energy, 163, pp.201-210. 
 3.	Zhang, J., **Su, Laisuo**, Li, Z., Sun, Y. and Wu, N., 2016. The evolution of lithium-ion cell thermal safety with aging examined in a battery testing calorimeter. Batteries, 2(2), p.12.
@@ -16,15 +14,12 @@
 6.	Zhang, J., **Su, Laisuo**, Zhang, Y., Zhang, J., Li, X., Li, Z. and Liaw, B.Y., 2016, September. (Invited) Study of Lithium-Ion Cell Degradation Behavior Under Multiple Stresses. In Meeting Abstracts (No. 6, pp. 882-882). The Electrochemical Society.
 7.	张剑波, **苏来锁**, 李新宇, 葛昊, 张雅琨 and 李哲, 2016. 基于锂离子电池老化行为的析锂检测. 电化学, 22(6), pp.607-616.
 
-<header>
-<h1>PATENT APPLICATIONS</h1>
-</header>
+#### PATENT APPLICATIONS
+
 
 1.	"Battery State of Health Detection Device and Method ", Jiang, Jianping; Zhang, Guanghui; Zeng, Xiaosheng; **Su, Laisuo**; Zhang, Jianbo; Li, Zhe. , International Application No.: PCT/CN2016/088147
 
-<header>
-<h1>CONFERENCE PRESENTATIONS</h1>
-</header>
+#### CONFERENCE PRESENTATIONS
 
 1.	Erin Balke, Vasudevan Nambeesan, **Laisuo Su**. “Automotive Battery Pack Thermal Management using Phase Change Materials”. Electrifying the Future: Challenges and Opportunities. Pittsburgh, PA, December 1, 2017 (**Best Poster Award, Team Leader**).
 2.	**Laisuo Su**, B. Reeja-Jayan. The Effect of Chemical Vapor Deposition Grown Polymer Coatings on the Performance of Cathode Material for Lithium Ion Battery. MS&T 2017, Pittsburgh, PA, USA, OCTOBER 8 –12, 2017.  
