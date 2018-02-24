@@ -30,12 +30,13 @@
 <h1>Conference Presentations</h1>
 </header>
 
-1.	Erin Balke, Vasudevan Nambeesan, **Laisuo Su**. “Automotive Battery Pack Thermal Management using Phase Change Materials”. Electrifying the Future: Challenges and Opportunities. Pittsburgh, PA, December 1, 2017 (**Best Poster Award, Team Leader**).  
-2.	**Laisuo Su**, B. Reeja-Jayan. The Effect of Chemical Vapor Deposition Grown Polymer Coatings on the Performance of Cathode Material for Lithium Ion Battery. MS&T 2017, Pittsburgh, PA, USA, OCTOBER 8 –12, 2017.  
-3.	**Laisuo Su**, B. Reeja-Jayan. “The Effect of Initiated Chemical Vapor Deposition Polymer Coating on the Performance of Cathode Material for Lithium Ion Battery”, 2017 Graduate Research Symposium, Pittsburgh, PA. March 31, 2017. (**Best poster award**)  
-4.	**Laisuo Su**, Jianbo Zhang. “Investigation of Path Dependence in the Degradation of Lithium-ion  Batteries  by  EIS  Method”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 72.  
-5.	Dechun Si, **Laisuo Su**, Jianbo Zhang . “The Sensitivity of EIS to Temperature and SOC in the  Lithium-ion  Battery”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 73.  
-6.	**Laisuo  Su**,  Jianbo  Zhang,  Ying  Sun,  et  al.  “The  Evolution  of  Lithium  Ion  Cells  Thermal Safety  with  Aging  Examined in  a  Battery  Testing  Calorimeter”.  First  International  Battery Safety Workshop, Munich, Germany, August 25-August 26 , 2015.  
+1. **Laisuo Su**, Phil Smith, B. Reeja Jayan. "Surface Engineering of LiMn 2 O 4 Electrode using Nanoscale Polymer Thin Film via Chemical Vapor Deposition Polymerization". The AVS Western Pennsylvania Chapter, Pittsburgh, PA, February 23, 2018. (**Best Poster Award**) 
+2.	Erin Balke, Vasudevan Nambeesan, **Laisuo Su**. “Automotive Battery Pack Thermal Management using Phase Change Materials”. Electrifying the Future: Challenges and Opportunities. Pittsburgh, PA, December 1, 2017 (**Best Poster Award, Team Leader**).  
+3.	**Laisuo Su**, B. Reeja-Jayan. The Effect of Chemical Vapor Deposition Grown Polymer Coatings on the Performance of Cathode Material for Lithium Ion Battery. MS&T 2017, Pittsburgh, PA, USA, OCTOBER 8 –12, 2017.  
+4.	**Laisuo Su**, B. Reeja-Jayan. “The Effect of Initiated Chemical Vapor Deposition Polymer Coating on the Performance of Cathode Material for Lithium Ion Battery”, 2017 Graduate Research Symposium, Pittsburgh, PA. March 31, 2017. (**Best poster award**)  
+5.	**Laisuo Su**, Jianbo Zhang. “Investigation of Path Dependence in the Degradation of Lithium-ion  Batteries  by  EIS  Method”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 72.  
+6.	Dechun Si, **Laisuo Su**, Jianbo Zhang . “The Sensitivity of EIS to Temperature and SOC in the  Lithium-ion  Battery”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 73.  
+7.	**Laisuo  Su**,  Jianbo  Zhang,  Ying  Sun,  et  al.  “The  Evolution  of  Lithium  Ion  Cells  Thermal Safety  with  Aging  Examined in  a  Battery  Testing  Calorimeter”.  First  International  Battery Safety Workshop, Munich, Germany, August 25-August 26 , 2015.  
 </article>
 
 </section>
