@@ -6,7 +6,8 @@
 <span><address>Mechanical Engineering, CMU, Advisor: Prof. B. Reeja Jayan </address><time>Sept. 2016 - Present</time></span>
 </header>
 
-* Surface modification and interface engineering of electrodes for lithium ion batteries for enhanced electrochemical performance.
+* Surface modification and interface engineering of electrodes for lithium ion batteries  
+* Hydrophobic engineering the surface of PGM-free catalyst layer for fuel cells application
 </article>
 
 <article markdown="1">

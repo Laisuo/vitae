@@ -8,13 +8,15 @@
 <header>
 <h1>Journal Articles</h1>
 </header>
-1.	Zhang, Y., Li, X., **Su, Laisuo**, Li, Z., Liaw, B.Y. and Zhang, J., 2017. Lithium Plating Detection and Quantification in Li-Ion Cells from Degradation Behaviors. ECS Transactions, 75(23), pp.37-50.  
-2.	**Su, Laisuo**, Zhang, J., Wang, C., Zhang, Y., Li, Z., Song, Y., Jin, T. and Ma, Z., 2016. Identifying main factors of capacity fading in lithium ion cells using orthogonal design of experiments. Applied Energy, 163, pp.201-210.   
-3.	Zhang, J., **Su, Laisuo**, Li, Z., Sun, Y. and Wu, N., 2016. The evolution of lithium-ion cell thermal safety with aging examined in a battery testing calorimeter. Batteries, 2(2), p.12.  
-4.	**Su, Laisuo**, Zhang, J., Huang, J., Ge, H., Li, Z., Xie, F. and Liaw, B.Y., 2016. Path dependence of lithium ion cells aging under storage conditions. Journal of Power Sources, 315, pp.35-46.  
-5.	Zhang, Y., Li, X., **Su, Laisuo**, Li, Z., Liaw, B.Y. and Zhang, J., 2016, September. Lithium Plating Identification and Quantification in Li-Ion Cell from Degradation Behaviors. In Meeting Abstracts (No. 6, pp. 911-911). The Electrochemical Society.  
-6.	Zhang, J., **Su, Laisuo**, Zhang, Y., Zhang, J., Li, X., Li, Z. and Liaw, B.Y., 2016, September. (Invited) Study of Lithium-Ion Cell Degradation Behavior Under Multiple Stresses. In Meeting Abstracts (No. 6, pp. 882-882). The Electrochemical Society.  
-7.	张剑波, **苏来锁**, 李新宇, 葛昊, 张雅琨 and 李哲, 2016. 基于锂离子电池老化行为的析锂检测. 电化学, 22(6), pp.607-616.
+1.	**Su, Laisuo**, Smith, P. M., Anand, P., & Reeja-Jayan, B. (2018). Surface Engineering of a LiMn2O4 Electrode Using Nanoscale Polymer Thin Films via Chemical Vapor Deposition Polymerization. ACS applied materials & interfaces, 10(32), 27063-27073.
+2.	Smith, P. M., **Su, Laisuo**, Gong, W., Nakamura, N., Reeja-Jayan, B., & Shen, S. (2018). Thermal conductivity of poly (3, 4-ethylenedioxythiophene) films engineered by oxidative chemical vapor deposition (oCVD). RSC Advances, 8(35), 19348-19352.
+3.	Zhang, Y., Li, X., **Su, Laisuo**, Li, Z., Liaw, B.Y. and Zhang, J., 2017. Lithium Plating Detection and Quantification in Li-Ion Cells from Degradation Behaviors. ECS Transactions, 75(23), pp.37-50.  
+4.	**Su, Laisuo**, Zhang, J., Wang, C., Zhang, Y., Li, Z., Song, Y., Jin, T. and Ma, Z., 2016. Identifying main factors of capacity fading in lithium ion cells using orthogonal design of experiments. Applied Energy, 163, pp.201-210.   
+5.	Zhang, J., **Su, Laisuo**, Li, Z., Sun, Y. and Wu, N., 2016. The evolution of lithium-ion cell thermal safety with aging examined in a battery testing calorimeter. Batteries, 2(2), p.12.  
+6.	**Su, Laisuo**, Zhang, J., Huang, J., Ge, H., Li, Z., Xie, F. and Liaw, B.Y., 2016. Path dependence of lithium ion cells aging under storage conditions. Journal of Power Sources, 315, pp.35-46.  
+7.	Zhang, Y., Li, X., **Su, Laisuo**, Li, Z., Liaw, B.Y. and Zhang, J., 2016, September. Lithium Plating Identification and Quantification in Li-Ion Cell from Degradation Behaviors. In Meeting Abstracts (No. 6, pp. 911-911). The Electrochemical Society.  
+8.	Zhang, J., **Su, Laisuo**, Zhang, Y., Zhang, J., Li, X., Li, Z. and Liaw, B.Y., 2016, September. (Invited) Study of Lithium-Ion Cell Degradation Behavior Under Multiple Stresses. In Meeting Abstracts (No. 6, pp. 882-882). The Electrochemical Society.  
+9.	张剑波, **苏来锁**, 李新宇, 葛昊, 张雅琨 and 李哲, 2016. 基于锂离子电池老化行为的析锂检测. 电化学, 22(6), pp.607-616.
 </article>
 
 <article markdown="1">
@@ -22,7 +24,8 @@
 <h1>Patent Applications</h1>
 </header>
 
-1.	"Battery State of Health Detection Device and Method ", Jiang, Jianping; Zhang, Guanghui; Zeng, Xiaosheng; **Su, Laisuo**; Zhang, Jianbo; Li, Zhe. , International Application No.: PCT/CN2016/088147
+1.	Jiang, J., Zhang, G., Zeng, X., **Su, Laisuo**, Zhang, J., & Li, Z. (2018). U.S. Patent Application No. 15/830,782.
+2.	"Battery State of Health Detection Device and Method ", Jiang, Jianping; Zhang, Guanghui; Zeng, Xiaosheng; **Su, Laisuo**; Zhang, Jianbo; Li, Zhe. , International Application No.: PCT/CN2016/088147
 </article>
 
 <article markdown="1">
