@@ -33,13 +33,15 @@
 <h1>Conference Presentations</h1>
 </header>
 
-1. **Laisuo Su**, Phil Smith, B. Reeja Jayan. "Surface Engineering of LiMn 2 O 4 Electrode using Nanoscale Polymer Thin Film via Chemical Vapor Deposition Polymerization". The AVS Western Pennsylvania Chapter, Pittsburgh, PA, February 23, 2018. (**Best Poster Award**) 
-2.	Erin Balke, Vasudevan Nambeesan, **Laisuo Su**. “Automotive Battery Pack Thermal Management using Phase Change Materials”. Electrifying the Future: Challenges and Opportunities. Pittsburgh, PA, December 1, 2017 (**Best Poster Award, Team Leader**).  
-3.	**Laisuo Su**, B. Reeja-Jayan. The Effect of Chemical Vapor Deposition Grown Polymer Coatings on the Performance of Cathode Material for Lithium Ion Battery. MS&T 2017, Pittsburgh, PA, USA, OCTOBER 8 –12, 2017.  
-4.	**Laisuo Su**, B. Reeja-Jayan. “The Effect of Initiated Chemical Vapor Deposition Polymer Coating on the Performance of Cathode Material for Lithium Ion Battery”, 2017 Graduate Research Symposium, Pittsburgh, PA. March 31, 2017. (**Best poster award**)  
-5.	**Laisuo Su**, Jianbo Zhang. “Investigation of Path Dependence in the Degradation of Lithium-ion  Batteries  by  EIS  Method”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 72.  
-6.	Dechun Si, **Laisuo Su**, Jianbo Zhang . “The Sensitivity of EIS to Temperature and SOC in the  Lithium-ion  Battery”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 73.  
-7.	**Laisuo  Su**,  Jianbo  Zhang,  Ying  Sun,  et  al.  “The  Evolution  of  Lithium  Ion  Cells  Thermal Safety  with  Aging  Examined in  a  Battery  Testing  Calorimeter”.  First  International  Battery Safety Workshop, Munich, Germany, August 25-August 26 , 2015.  
+1. **Laisuo Su**, Jamie Weaver, Mitchell Groenenboom, Priyanka Anand, B. Reeja Jayan. "Improving Both Rate Capability and Cycling Stability of LiCoO 2 by Polymer Coatings via One-Step Chemical Vapor Deposition Polymerization Techniques". CMU Electrochemical Energy Symposium. Pittsburgh, PA, USA. Nov. 15 - 16, 2018. (Poster, **Best Poster Award**)
+2. **Laisuo Su**, Phil Smith, B. Reeja Jayan. "Performance Improvement of Cathode Electrodes in Lithium Ion Batteries by Nanoscale Surface Engineering via Chemical Vapor Deposition Polymerization". MS&T 18, Columbus, Ohio, USA. Oct 14 - 18, 2018. (**Presentation**)
+3. **Laisuo Su**, Phil Smith, B. Reeja Jayan. "Surface Engineering of LiMn2O4 Electrode using Nanoscale Polymer Thin Film via Chemical Vapor Deposition Polymerization". The AVS Western Pennsylvania Chapter, Pittsburgh, PA, February 23, 2018. (Poster, **Best Poster Award**) 
+4.	Erin Balke, Vasudevan Nambeesan, **Laisuo Su**. “Automotive Battery Pack Thermal Management using Phase Change Materials”. Electrifying the Future: Challenges and Opportunities. Pittsburgh, PA, December 1, 2017 (Poster, **Best Poster Award, Team Leader**).  
+5.	**Laisuo Su**, B. Reeja-Jayan. The Effect of Chemical Vapor Deposition Grown Polymer Coatings on the Performance of Cathode Material for Lithium Ion Battery. MS&T 2017, Pittsburgh, PA, USA, OCTOBER 8 –12, 2017. (**Presentation**) 
+6.	**Laisuo Su**, B. Reeja-Jayan. “The Effect of Initiated Chemical Vapor Deposition Polymer Coating on the Performance of Cathode Material for Lithium Ion Battery”, 2017 Graduate Research Symposium, Pittsburgh, PA. March 31, 2017. (Poster, **Best poster award**)  
+7.	**Laisuo Su**, Jianbo Zhang. “Investigation of Path Dependence in the Degradation of Lithium-ion  Batteries  by  EIS  Method”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 72.  
+8.	Dechun Si, **Laisuo Su**, Jianbo Zhang . “The Sensitivity of EIS to Temperature and SOC in the  Lithium-ion  Battery”.  First  Asian  Symposium  on  Impedance  Spectroscopy  for Electrochemical Energy Devices, Beijing, China, April 16-April 17, 2015; pp. 73.  
+9.	**Laisuo  Su**,  Jianbo  Zhang,  Ying  Sun,  et  al.  “The  Evolution  of  Lithium  Ion  Cells  Thermal Safety  with  Aging  Examined in  a  Battery  Testing  Calorimeter”.  First  International  Battery Safety Workshop, Munich, Germany, August 25-August 26 , 2015.  
 </article>
 
 </section>
