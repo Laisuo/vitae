@@ -2,6 +2,7 @@
 
 # Honors & Awards
 
+* 2019 Phillips and Huang Family Fellowship in Energy, Carnegie Mellon University, USA
 * 2018 Best Poster Award in CMU Electrochemical Energy Symposium, Pittsburgh, USA
 * 2018 Best Poster Award in AVS - Western Pennsylvania Chapter, Pittsburgh, USA
 * 2017 Milton Shaw PhD Student Travel Award, Carnegie Mellon University, USA 
