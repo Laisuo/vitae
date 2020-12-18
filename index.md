@@ -10,10 +10,10 @@ layout: layout
 
 {% include publications.md %}
 
+{% include skills.md %}
+
 {% include research-exp.md %}
 
 {% include teaching.md %}
-
-{% include skills.md %}
 
 {% include outreach.md %}
