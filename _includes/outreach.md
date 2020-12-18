@@ -4,8 +4,8 @@
 
 <article markdown="1">
 <header>
-<h1>•	STEM Demo Day 	 (Jeron X. Grayson Center)</h1>
-<span><time>May. 2018</time></span>
+<h1>STEM Demo Day 	 (Jeron X. Grayson Center)</h1>
+<span><time>May 2018</time></span>
 </header>
 
 * Demonstrate two scientific topics to kids from the nearby middle schools. One is the drinking birds, and the other is the quick sand. I prepared posters and actual objects to encourage these kids to participate in the themes and learn from them.
@@ -26,7 +26,7 @@
 <article markdown="1">
 <header>
 <h1>Summer Camp (Tsinghua University, twice)</h1>
-<span><time>June. 2014 and June. 2015</time></span>
+<span><time>June 2014 and June 2015</time></span>
 </header>
 
 * We invited eight specialists in the field of “Intelligent Vehicle Technology” were invited from different countries to hold a one week lecture for students both inside and outside Tsinghua University. 
