@@ -4,6 +4,17 @@
 
 <article markdown="1">
 <header>
+<h1>•	STEM Demo Day 	 (Jeron X. Grayson Center)</h1>
+<span><time>May. 2018</time></span>
+</header>
+
+* Demonstrate two scientific topics to kids from the nearby middle schools. One is the drinking birds, and the other is the quick sand. I prepared posters and actual objects to encourage these kids to participate in the themes and learn from them.
+
+</article>
+
+
+<article markdown="1">
+<header>
 <h1>Energy from Everyday Things (CMU Gelfand Center, twice)</h1>
 <span><time>Oct. 2016 and Apr. 2017</time></span>
 </header>
