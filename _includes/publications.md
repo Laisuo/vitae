@@ -35,7 +35,7 @@
 <h1>Patent Applications</h1>
 </header>
 
-2.**Su, Laisuo**, Jayan, B. Reeja. Electrode Surface Engineering in Lithium Ion Batteries. (filed on 29-May-2020)  
+2. **Su, Laisuo**, Jayan, B. Reeja. Electrode Surface Engineering in Lithium Ion Batteries. (filed on 29-May-2020)  
 1. Jiang, J., Zhang, G., Zeng, X., **Su, Laisuo**, Zhang, J., & Li, Z. "Battery State of Health Detection Device and Method " (2018). U.S. Patent Application No. 15/830,782.  
 
 </article>
