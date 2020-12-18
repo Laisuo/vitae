@@ -2,7 +2,7 @@
 # Education
 <article markdown="1">
 <header>
-<h1>Carnegie Mellon University, Pittsburgh, Pennsylvania</h1>
+<h1>Carnegie Mellon University, Pittsburgh, Pennsylvania, USA</h1>
 <span><address>Ph.D. in Mechanical Engineering </address><time>2016 - present</time></span>
 </header>
 Advisor: [Professor B. Reeja Jayan](http://jayanlab.com/) 
