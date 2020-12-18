@@ -8,9 +8,9 @@ layout: layout
 
 {% include awards.md %}
 
-{% include research-exp.md %}
-
 {% include publications.md %}
+
+{% include research-exp.md %}
 
 {% include teaching.md %}
 
