@@ -1,7 +1,7 @@
 <section class="thirteen columns" markdown="1">
 
-# Honors & Awards
-
+# Selected Honors & Awards
+* 2021 Presidential Fellowship, Carnegie Mellon University, USA  
 * 2019 Phillips and Huang Family Fellowship in Energy, Carnegie Mellon University, USA
 * 2017 Milton Shaw PhD Student Travel Award, Carnegie Mellon University, USA 
 * 2016 Outstanding Thesis Award, Tsinghua University, China
