@@ -8,11 +8,11 @@
 <header>
 <h1>Journal Articles</h1>
 </header>
-20.	**Su, Laisuo**, Weaver, J., Groenenboom, M., Anand, P., Jha, S. K., Okasinski, J. S., Reeja-Jayan, B. Tailoring electrode-electrolyte-interfaces in lithium-ion batteries using molecularly engineered functional polymers. (Under review, ACS Applied Materials & Interfaces), 2020   
-19.	**Su, Laisuo**, Choi, P., Nakamura, N., et al. Visualization and Quantification of Li-Ion Battery Electrodes Electro-Chemo-Mechanical Behavior: LiCoO2 Case Study. (To be submitted, MIT A+B 2020 invited paper)  
-18.	Nakamura, N., **Su, Laisuo**, Wang, H., et al.. Defect-Mediated Phase Transitions in ZrO2 under Electromagnetic Excitation. (To be submitted)  
-17.	**Su, Laisuo**, Wu, M., Zhang, J., et al. Cycle Life Prediction of Lithium-Ion Batteries Based on Data-Driven Methods. (Under review, eTransportation), 2020  
-16.	Choi, P., Parimalam, B. **Su, Laisuo**, et al. Operando Particle-Scale  Characterization of Silicon Anode Degradation during Cycling by Ultra High Resolution X-ray Microscopy and Computed Tomography. (Minor Revision, ACS Applied Energy Materials), 2020  
+20.	**Su, Laisuo**, Choi, P., Nakamura, N., et al. Visualization and Quantification of Li-Ion Battery Electrodes Electro-Chemo-Mechanical Behavior: LiCoO2 Case Study. (Applied Energy, Under review)  
+19.	**Su, Laisuo**, Wu, M., Zhang, J., et al. Cycle Life Prediction of Lithium-Ion Batteries Based on Data-Driven Methods. (eTransportation,Under review)  
+18.	**Su, Laisuo**, Weaver, J., Groenenboom, M., Anand, P., Jha, S. K., Okasinski, J. S., Reeja-Jayan, B. Tailoring electrode-electrolyte-interfaces in lithium-ion batteries using molecularly engineered functional polymers. ACS Applied Materials & Interfaces (2021)   
+17.	Nakamura, N., **Su, Laisuo**, Wang, H., et al.. Defect-Mediated Phase Transitions in ZrO2 under Electromagnetic Excitation. Journal of Materials Chemistry A (2021)  
+16.	Choi, P., Parimalam, B. **Su, Laisuo**, et al. Operando Particle-Scale  Characterization of Silicon Anode Degradation during Cycling by Ultra High Resolution X-ray Microscopy and Computed Tomography. ACS Applied Energy Materials 4.2 (2021): 1657-1665.  
 15.	**Su, Laisuo**, Jha, S.K., Phuah, X. L., Xu, J., Nakamura, N., Wang, H., Okasinski, J. S., R-eeja-Jayan, B. Engineering Lithium Ion Battery Cathodes for High Voltage Applications Using Electromagnetic Excitation. Journal of Material Science, 2020  
 14.	Nakamura, N., **Su, Laisuo**, Bai, J., et al. Monitoring Electromagnetic Field-Assisted SnO2 Synthetic Pathways via In-Situ Pair Distribution Function Analysis. Journal of Materials Chemistry A, 2020  
 13.	Liu, D., **Su, Laisuo**, Liao, J., Reeja‐Jayan, B., & Majidi, C. (2019). Rechargeable Soft‐Matter EGaIn‐MnO2 Battery for Stretchable Electronics. Advanced Energy Materials.  
