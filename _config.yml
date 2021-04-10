@@ -16,17 +16,17 @@ author: Fábio Madeira
 baseurl: /vitae/
 title: Laisuo Su's Resume
 name: Laisuo Su
-email: laisuos at andrew dot cmu dot edu
-email_full: mailto:laisuos@andrew.cmu.edu
+email: laisuos at utexas dot edu
+email_full: mailto:laisuos@utexas.edu
 website: laisuosu.com
 website_full: http://laisuosu.com/
 github: trending
 twitter: twitter
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 5000 Forbes Ave
-  postcode: 15213
-  city: Pittsburgh
+  street: UT Austin
+  postcode: 78712
+  city: Austin
   country: United States
 
 # needed for travis-ci build
