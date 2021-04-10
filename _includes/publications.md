@@ -9,7 +9,7 @@
 <h1>Journal Articles</h1>
 </header>
 20.	**Su, Laisuo**, Choi, P., Nakamura, N., et al. Visualization and Quantification of Li-Ion Battery Electrodes Electro-Chemo-Mechanical Behavior: LiCoO2 Case Study. (Applied Energy, Under review)  
-19.	**Su, Laisuo**, Wu, M., Zhang, J., et al. Cycle Life Prediction of Lithium-Ion Batteries Based on Data-Driven Methods. (eTransportation,Under review)  
+19.	**Su, Laisuo**, Wu, M., Zhang, J., et al. Cycle Life Prediction of Lithium-Ion Batteries Based on Data-Driven Methods. (eTransportation, Under review)  
 18.	**Su, Laisuo**, Weaver, J., Groenenboom, M., Anand, P., Jha, S. K., Okasinski, J. S., Reeja-Jayan, B. Tailoring electrode-electrolyte-interfaces in lithium-ion batteries using molecularly engineered functional polymers. ACS Applied Materials & Interfaces (2021)   
 17.	Nakamura, N., **Su, Laisuo**, Wang, H., et al.. Defect-Mediated Phase Transitions in ZrO2 under Electromagnetic Excitation. Journal of Materials Chemistry A (2021)  
 16.	Choi, P., Parimalam, B. **Su, Laisuo**, et al. Operando Particle-Scale  Characterization of Silicon Anode Degradation during Cycling by Ultra High Resolution X-ray Microscopy and Computed Tomography. ACS Applied Energy Materials 4.2 (2021): 1657-1665.  
